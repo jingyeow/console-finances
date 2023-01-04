@@ -1,15 +1,14 @@
 # console-finances
-Analyse the financial records of a company
+Analyse the financial records of a company to calculate profits and losses over an 86 month period
 
 ## Table of Contents
 * [Description](#description)
 * [Deployment](#deployment)
-* [Credits](#credits)
 * [License](#license)
 
 ## Description
 
-This project involved evaluating the financial records of a company to calculate  
+This project involved evaluating the financial records of a company to calculate:
 
 * The total number of months included in the dataset.
 
@@ -23,13 +22,14 @@ This project involved evaluating the financial records of a company to calculate
 
 ## Deployment
 
-Github Link: https://jingyeow.github.io/horiseon-code-refactor/
+Github Link: https://jingyeow.github.io/console-finances/
 
-![image](./assets/images/horiseon-screenshot-final.png)
+Repository Link: https://github.com/jingyeow/console-finances
 
+![image](./assets/Screenshot%202023-01-04%20at%2001.08.46.png)
 
 ## License
 
-Copyright (c) [2022] [jingyeow]. All rights reserved.
+Copyright (c) [2023] [jingyeow]. All rights reserved.
 
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
